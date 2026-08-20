@@ -1,3 +1,45 @@
 h1 {
-  color: black;
+  color: rgb(55, 154, 154);
+    display: flex;
+  align-items: center;
+  flex-direction: column;
 }
+
+h3{
+      display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+h4{
+      display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+body{
+  color: rgb(84, 47, 47);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+}
+.destaque {
+  background-color: rgb(255, 255, 188);
+}
+
+#cabecalho {
+  font-size: 24px;
+}
+
+.img{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border: solid black ;
+  border-radius: black 40px;
+  margin-left: 500px;
+  margin-right: 500px;
+  background-image: url('https://i.pinimg.com/736x/b8/9d/59/b89d59a4ddde3d6ce01185904089db4b.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
